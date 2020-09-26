@@ -13,4 +13,5 @@ lsblk
 free -m
 cat /etc/*release
 
+echo "the comands were a success"
 
